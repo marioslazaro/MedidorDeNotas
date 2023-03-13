@@ -1,0 +1,12 @@
+C:\Users\xbaco\OneDrive\Área de Trabalho\c#\MedidorDeNotas\bin\Debug\MedidorDeNotas.exe.config
+C:\Users\xbaco\OneDrive\Área de Trabalho\c#\MedidorDeNotas\bin\Debug\MedidorDeNotas.exe
+C:\Users\xbaco\OneDrive\Área de Trabalho\c#\MedidorDeNotas\bin\Debug\MedidorDeNotas.pdb
+C:\Users\xbaco\OneDrive\Área de Trabalho\c#\MedidorDeNotas\obj\Debug\MedidorDeNotas.csproj.AssemblyReference.cache
+C:\Users\xbaco\OneDrive\Área de Trabalho\c#\MedidorDeNotas\obj\Debug\MedidorDeNotas.csproj.SuggestedBindingRedirects.cache
+C:\Users\xbaco\OneDrive\Área de Trabalho\c#\MedidorDeNotas\obj\Debug\MedidorDeNotas.Properties.Resources.resources
+C:\Users\xbaco\OneDrive\Área de Trabalho\c#\MedidorDeNotas\obj\Debug\MedidorDeNotas.csproj.GenerateResource.cache
+C:\Users\xbaco\OneDrive\Área de Trabalho\c#\MedidorDeNotas\obj\Debug\MedidorDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\xbaco\OneDrive\Área de Trabalho\c#\MedidorDeNotas\obj\Debug\MedidorDeNotas.exe
+C:\Users\xbaco\OneDrive\Área de Trabalho\c#\MedidorDeNotas\obj\Debug\MedidorDeNotas.pdb
+C:\Users\xbaco\OneDrive\Área de Trabalho\c#\MedidorDeNotas\obj\Debug\MedidorDeNotas.FrmPrincipal.resources
+C:\Users\xbaco\OneDrive\Área de Trabalho\c#\MedidorDeNotas\obj\Debug\MedidorDeNotas.FrmLogin.resources
